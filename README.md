@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarundeepJoshi
-- Projects done by me on - @https://www.frontendmentor.io/profile/TarundeepJoshi
+- Projects done by me on - https://www.frontendmentor.io/profile/TarundeepJoshi and on https://app.netlify.com/teams/tarundeepjoshi/overview
 - 🌱 I’m currently learning about web development and little bit of networking skills
 - 💞️ I’m looking to collaborate on web developer projects
 - 📫 How to reach me .. mailforwork884@gmail.com 
