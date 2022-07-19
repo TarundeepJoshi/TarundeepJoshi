@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TarundeepJoshi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning networking, hacking skills
-- 💞️ I’m looking to collaborate on ...
+- 👀 I have a lot of interest in coding
+- 🌱 I’m currently learning about web development and little bit of networking skills
+- 💞️ I’m looking to collaborate on web developer projects
 - 📫 How to reach me .. mailforwork884@gmail.com 
 
 <!---
