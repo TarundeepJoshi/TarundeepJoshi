@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarundeepJoshi
-- Projects done by me on - https://www.frontendmentor.io/profile/TarundeepJoshi and on https://app.netlify.com/teams/tarundeepjoshi/overview
+- Projects done by me on - https://www.frontendmentor.io/profile/TarundeepJoshi
 - My Website :- https://www.moddedapps.tech/
 - 📫 How to reach me .. mailforwork884@gmail.com 
 - 💼 LinkedIn - https://www.linkedin.com/in/tarundeep-joshi-a603b9247
