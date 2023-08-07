@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TarundeepJoshi
-- My Website :- https://www.moddedapps.tech/
 - 📫 How to reach me .. mailforwork884@gmail.com 
 - 💼 LinkedIn - https://www.linkedin.com/in/tarundeep-joshi-a603b9247
 
