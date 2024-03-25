@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working to enhance my skills in frontend web development<br>🌱 I’m currently learning HTML, CSS and JavaScript<br>💬 Ask me about anything feel freely mailforwork884@gmail.com
+🔭I'm currently working to enhance my skills in frontend web development<br>🌱 I’m currently learning about Backend Development<br>💬 Ask me about anything feel freely mailforwork884@gmail.com
 
 
 # 💻 Tech Stack:
